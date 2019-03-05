@@ -1,0 +1,11 @@
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/obj/Debug/netcoreapp2.2/dictionaries_planets.csprojAssemblyReference.cache
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/obj/Debug/netcoreapp2.2/dictionaries_planets.csproj.CoreCompileInputs.cache
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/obj/Debug/netcoreapp2.2/dictionaries_planets.AssemblyInfoInputs.cache
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/obj/Debug/netcoreapp2.2/dictionaries_planets.AssemblyInfo.cs
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/bin/Debug/netcoreapp2.2/dictionaries_planets.deps.json
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/bin/Debug/netcoreapp2.2/dictionaries_planets.runtimeconfig.json
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/bin/Debug/netcoreapp2.2/dictionaries_planets.runtimeconfig.dev.json
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/bin/Debug/netcoreapp2.2/dictionaries_planets.dll
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/bin/Debug/netcoreapp2.2/dictionaries_planets.pdb
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/obj/Debug/netcoreapp2.2/dictionaries_planets.dll
+/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/obj/Debug/netcoreapp2.2/dictionaries_planets.pdb

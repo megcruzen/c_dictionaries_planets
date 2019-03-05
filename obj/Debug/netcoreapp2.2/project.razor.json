@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/megan/Desktop/NSS/workspace/backend/dictionaries_planets/dictionaries_planets.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
